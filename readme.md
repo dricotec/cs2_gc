@@ -3,6 +3,8 @@
 > This project is incomplete, Semi-Broken and VAC Bannable.
 > Proceed with caution. Made for the Limited Test version of Counter-Strike 2.
 
+# THIS IS A FORK OF [Mikko's csgo_gc](https://github.com/mikkokko/csgo_gc) MOST CREDITS TO MIKKO AND HIS AMAZING WORK!
+
 ## What is this?
 In Valve games, the Game Coordinator (GC) is a backend service most notably responsible for matchmaking and inventory management (like loadouts and skins). This project redirects the GC traffic to a custom, in-process implementation.
 
@@ -25,7 +27,6 @@ Uhh to see skins in game you know and feel rich like bling bling modafucka
 - Music kits
 - In-game store
 - Works without full Steam API emulation
-- Full Windows, Linux and macOS support
 - Functional lobbies
 - Dedicated server support
 - Functional server browser (only shows csgo_gc servers by default)
@@ -34,15 +35,17 @@ Uhh to see skins in game you know and feel rich like bling bling modafucka
 ## Planned features
 - Rest of the core features (trade ups, souvenirs, storage units, StatTrak swaps...)
 
-I'm still looking for the **full** CS:GO (or cs2) Item Schema.
+Mikko is looking for the **full** CS:GO Item Schema, if you have it or any recent version of it please contact [Mikko](https://github.com/mikkokko/)
 
 ## Not planned
 - Matchmaking (can't be implemented without a centralized server)
 
 ## Installation (WINDOWS)
 - Download the depots below:
--
--
+```
+download_depot 730 2347771 40025667126184286
+download_depot 730 2347770 7006352739150617787
+```
 - Download the latest release for your platform from the [releases page](https://github.com/dricotec/cs2_gc/releases/latest)
 - Navigate to the game's installation directory
 - Extract the contents of the downloaded archive to your game directory @ game\bin\win64.
