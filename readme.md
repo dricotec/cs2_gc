@@ -34,6 +34,7 @@ Uhh to see skins in game you know and feel rich like bling bling modafucka
 
 ## Planned features
 - Rest of the core features (trade ups, souvenirs, storage units, StatTrak swaps...)
+- Rating Editor (so you can set your premier rating)
 
 Mikko is looking for the **full** CS:GO Item Schema, if you have it or any recent version of it please contact [Mikko](https://github.com/mikkokko/)
 
