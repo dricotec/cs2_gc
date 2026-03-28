@@ -1,7 +1,7 @@
 # cs2_gc
 > [!CAUTION]
 > This project is incomplete, Semi-Broken and VAC Bannable.
-> Proceed with caution. Made for the Limited Test version of Counter-Strike 2.
+> Proceed with caution. Made for the Limited Test version of Counter-Strike 2 and UP, current build supports the Initial Release Build of counter-strike 2.
 
 # THIS IS A FORK OF [Mikko's csgo_gc](https://github.com/mikkokko/csgo_gc) MOST CREDITS TO MIKKO AND HIS AMAZING WORK!
 
@@ -13,7 +13,7 @@ Uhh to see skins in game you know and feel rich like bling bling modafucka
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38f168d5-eb1c-4157-b9aa-5f8ac356ff71" />
 
-## This does include opening cases and Sticker Capsules thanks to Parker for his amazing mod <3
+## This does include opening cases and Sticker Capsules thanks to Parker for his amazing mod for limited test <3
 ![20260325112454_1](https://github.com/user-attachments/assets/4038ff03-48fc-4e61-9895-41e778d5e4cf)
 
 ## Current features
@@ -41,12 +41,18 @@ Mikko is looking for the **full** CS:GO Item Schema, if you have it or any recen
 ## Not planned
 - Matchmaking (can't be implemented without a centralized server)
 
-## Installation (WINDOWS)
+## Installation RELEASE SEPT 27th (WINDOWS)
 - Download the depots below:
+```
+download_depot 730 2347771 7725996696657716079
+download_depot 730 2347770 4805760862032162118
+```
+- Installation LIMITED TEST SEPT 9TH (WINDOWS)
 ```
 download_depot 730 2347771 40025667126184286
 download_depot 730 2347770 7006352739150617787
 ```
+
 - Download the latest release for your platform from the [releases page](https://github.com/dricotec/cs2_gc/releases/latest)
 - Navigate to the game's installation directory
 - Extract the contents of the downloaded archive to your game directory @ game\bin\win64.
@@ -70,7 +76,7 @@ This project is licensed under the 2-Clause BSD License. See [LICENSE.md](LICENS
 * **Mikko Kokko** - Original Author
 * **Theeto** - Code reused from the predecessor project, unusual loot lists
 * **Drico** - Launcher for Counter-Strike 2 and Modifications to csgo_gc
-* **Parker** - Modifications to the Counter-Strike 2 Panorama for opening cases, sticker capsules & more.
+* **Parker** - Modifications to the Counter-Strike 2 Limited Test Panorama for opening cases, sticker capsules & more.
 
 ## Third party dependencies
 - [Crypto++](https://github.com/weidai11/cryptopp) ([Boost Software License](https://github.com/weidai11/cryptopp/blob/master/License.txt))
